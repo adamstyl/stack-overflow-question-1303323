@@ -1,0 +1,11 @@
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\bin\Debug\CustomMoveForm.exe.config
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\bin\Debug\CustomMoveForm.exe
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\bin\Debug\CustomMoveForm.pdb
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.csproj.AssemblyReference.cache
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.csproj.SuggestedBindingRedirects.cache
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.Properties.Resources.resources
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.csproj.GenerateResource.cache
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.csproj.CoreCompileInputs.cache
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.exe
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.pdb
+D:\Stelios\RiderProjects\CustomMoveForm\CustomMoveForm\obj\Debug\CustomMoveForm.CustomForm.resources
